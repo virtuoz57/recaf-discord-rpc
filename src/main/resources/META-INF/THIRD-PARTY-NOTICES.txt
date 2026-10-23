@@ -1,0 +1,5 @@
+Recaf Discord RPC includes Gson 2.13.2.
+Copyright 2008 Google Inc.
+Gson is licensed under the Apache License, Version 2.0.
+See META-INF/licenses/GSON-LICENSE.txt.
+Source: https://github.com/google/gson/tree/gson-parent-2.13.2
